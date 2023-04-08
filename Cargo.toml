@@ -1,6 +1,6 @@
 [package]
 name = "fatal-error"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["Alois Masanell <massou@cantina.space>"]
 description = "Differentiate errors and fatal errors"
